@@ -49,7 +49,8 @@ streamlit run app.py
 
 ## Sample Image
 
-![Sample Image](sign_language_gestures.PNG)
+
+<img src="sign_language_gestures.PNG" alt="sign_language_gestures.PNG" width="400" />
 
 This is a sample image showing all the sign language gestures that the classifier can recognize.
 
